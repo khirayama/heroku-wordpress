@@ -5,8 +5,5 @@
     {
       "name": "khirayama"
     }
-  ],
-  "require": {
-    "php": "^7"
-  }
+  ]
 }
