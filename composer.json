@@ -1,0 +1,12 @@
+{
+  "name": "heroku-wordpress",
+  "description": "",
+  "authors": [
+    {
+      "name": "khirayama"
+    }
+  ],
+  "require": {
+    "php": "^7"
+  }
+}

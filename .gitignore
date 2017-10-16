@@ -1,0 +1,6 @@
+.DS_Store
+
+/.envrc
+/secret.txt
+/node_modules
+/vendor
